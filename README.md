@@ -1,4 +1,5 @@
-# crossairs-jpa-hibernate-console
+# gestagenviaj-jpa-hibernate-console
+
 Gestión de billetes en una agencia de viajes
 
 ## Requisitos
